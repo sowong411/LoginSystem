@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_id": "loginsystem-1229",
+    "project_number": "672562030326",
+    "name": "LoginSystem"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672562030326:android:1445534f6c332f6b",
+        "client_id": "android:com.example.onzzz.loginsystem",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.example.onzzz.loginsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672562030326-ha2cbudm9336hvvqqsek91535balf4r5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onzzz.loginsystem",
+            "certificate_hash": "029592E9F1F3B99A7A19B46B272DA13015B95D17"
+          }
+        },
+        {
+          "client_id": "672562030326-12kau3gbi9c2eala0m0a74hmtg0askvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
